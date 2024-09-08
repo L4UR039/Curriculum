@@ -1,5 +1,8 @@
 body {
-  background: #232323;
+  background-image: url("https://wallpapercave.com/wp/wp13915512.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
   color: #fff;
 }
 
@@ -31,12 +34,20 @@ a:visited {
 }
 
 table {
-  background: #228b22;
   text-align: center;
 }
 
 thead {
-  background: #006400;
+  text-decoration: solid;
+  background-color: #006400;
+}
+
+tbody > tr:nth-of-type(odd) {
+  background-color: #228b22;
+}
+
+tbody > tr:nth-of-type(even) {
+  background-color: #1f9c1f;
 }
 
 .centralizador {
