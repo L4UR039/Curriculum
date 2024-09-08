@@ -1,0 +1,44 @@
+body {
+  background: #232323;
+  color: #fff;
+}
+
+h1 {
+  font-size: 1.2rem;
+  font-family: cursive;
+  color: #ffd900;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-family: cursive;
+  color: #ffd900;
+}
+
+img {
+  width: 139px;
+
+  margin-right: 10px;
+}
+
+a {
+  color: #83e509;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #65b307;
+}
+
+table {
+  background: #228b22;
+  text-align: center;
+}
+
+thead {
+  background: #006400;
+}
+
+.centralizador {
+  text-align: center;
+}
