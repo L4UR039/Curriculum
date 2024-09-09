@@ -6,9 +6,20 @@ body {
   color: #fff;
 }
 
+main {
+  background-color: #00ff0013;
+}
+
+.cor_fundo {
+  background-color: #00ff0013;
+}
+
+aside {
+  background-color: #ff050565;
+}
+
 h1 {
   font-size: 1.2rem;
-  font-family: cursive;
   color: #ffd900;
 }
 
@@ -39,15 +50,15 @@ table {
 
 thead {
   text-decoration: solid;
-  background-color: #006400;
+  background-color: #005500;
 }
 
 tbody > tr:nth-of-type(odd) {
-  background-color: #228b22;
+  background-color: #2aa835;
 }
 
 tbody > tr:nth-of-type(even) {
-  background-color: #1f9c1f;
+  background-color: #65bd65;
 }
 
 .centralizador {
